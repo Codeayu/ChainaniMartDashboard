@@ -14,7 +14,15 @@ This **Power BI Sales Dashboard** provides an in-depth analysis of sales perform
 This project is useful for businesses and e-commerce platforms to track sales trends, optimize inventory, and make strategic decisions using **Power BI visualizations**.  
 
 ## 🖼️ Dashboard Preview  
-![Dashboard Screenshot](dashboard_image.png)  
+### 🏆 Main Dashboard View  
+![Dashboard Screenshot](full.png)  
+
+### 📊 Quater 3  
+![3th Quater](Qtr3.png)  
+
+### 📈 Quater 4 
+![4th Quater](qtr4.png)
+
 
 ---  
 
