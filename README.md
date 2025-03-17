@@ -15,7 +15,7 @@ This project is useful for businesses and e-commerce platforms to track sales tr
 
 ## 🖼️ Dashboard Preview  
 ### 🏆 Main Dashboard View  
-![Dashboard Screenshot](full.png)  
+![Dashboard Screenshot](full.jpg)
 
 ### 📊 Quater 3  
 ![3th Quater](Qtr3.png)  
