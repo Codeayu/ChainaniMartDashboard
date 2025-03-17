@@ -21,7 +21,7 @@ This project is useful for businesses and e-commerce platforms to track sales tr
 ![3th Quater](Qtr3.png)  
 
 ### 📈 Quater 4 
-![4th Quater](qtr4.png)
+![4th Quater](qrt4.png)
 
 
 ---  
